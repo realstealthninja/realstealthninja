@@ -1,18 +1,21 @@
-# Hello there i am  stealthninja, welcome to my github
+<p style="text-align:center;">
+ 
+<img src="https://cdn.discordapp.com/avatars/521226389559443461/4f28dc2c9dbb164c14755912e6e26a6c.webp?size=300">
 
-## Languages
- i love coding C#,py are the languages i know currently! 
- i am currently learning: Java. C, C++
+</p>
 
-## more on me
-  I love the C family :D, i am not perfectat coding but practice makes perfect
+# Introduction
+### Hello there i am  stealthninja, welcome to my github
 
-## Projects i am currently working on
+
+
+# Languages
+### i love coding C#,py are the languages i know currently! 
+### i am currently learning: Java. C, C++
+
+# more about me
+###  I love the C family :D, i am not perfectat coding but practice makes perfect
+
+# Projects i am currently working on
  - stealthy bot
- - 
 
-
-<!---
-realstealthninja/realstealthninja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
