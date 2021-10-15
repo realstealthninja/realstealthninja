@@ -1,6 +1,15 @@
-Hello there the username is stealthninja,
-i love coding C#,py,lua are some of my specailties 
-i am not very good at coding but i love learning
+# Hello there i am  stealthninja, welcome to my github
+
+## Languages
+ i love coding C#,py are the languages i know currently! 
+ i am currently learning: Java. C, C++
+
+## more on me
+  I love the C family :D, i am not perfectat coding but practice makes perfect
+
+## Projects i am currently working on
+ - stealthy bot
+ - 
 
 
 <!---
