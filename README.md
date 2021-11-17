@@ -1,1 +1,1 @@
-w
+<img src="github-metrics.svg">
