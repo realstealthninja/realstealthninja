@@ -1,4 +1,4 @@
-### Hey 👋
+### **Hey** 👋
 #### if you couldnt tell im bad at coding but I'm sure I'll get better!
  - 🔭 Aiming to be big.
  - 🌃 Dreams of being a software developer.
