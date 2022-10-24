@@ -1,6 +1,6 @@
 ## **Hey** 👋
 #### if you couldnt tell im bad at coding but I'm sure I'll get better!
- - 🔭 Aiming to be big.
+ - 🔭 Aiming to be big someday.
  - 🌃 Dreams of being a software developer.
  - 📘 Learing TypeScript, C#
  - 🎛️ Contact me via discord **`stealthninja#1990`**
