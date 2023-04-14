@@ -28,7 +28,7 @@
 
 <h3 align="center"> Statistics 📊 </h3>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=realstealthninja&show_icons=true&locale=en&theme=onedark&layout=compact&langs_count=10" alt="realstealthninja" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=realstealthninja&show_icons=true&locale=en&theme=onedark&layout=compact&langs_count=4" alt="realstealthninja" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=realstealthninja&show_icons=true&locale=en&theme=onedark" alt="realstealthninja" /></p>
 
