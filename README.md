@@ -17,9 +17,6 @@
 <h3 align="center">Trophies</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realstealthninja&theme=onedark&column=4" alt="realstealthninja" /></a> </p>
 
-
-<h3 align="left">Find me at </h3>
-
 <h3 align="center">Tools and Tech</h3>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=BE5046&color=5c6370)
