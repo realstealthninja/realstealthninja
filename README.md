@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realstealthninja&label=Profile%20views&color=0e75b6&style=flat" alt="realstealthninja" /> </p>
 <h1 align="center">👋  Hello there, I'm stealthninja</h1>
-<h3 align="center">A self described developer from South India</h3>
+<h3 align="center">A self described developer from Kerala</h3>
 
 
 - 🔭 Currently working on [Texto](https://github.com/realstealthninja/texto)
