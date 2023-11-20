@@ -6,7 +6,7 @@
 
 - 🔭 Currently working on [Texto](https://github.com/realstealthninja/texto)
 
-- 🌱 I’m currently learning **C++, Game-Engines, 3d-rendering, C# and typescript**
+- 🌱 I’m currently learning **C++, Electronics, 3d-rendering and typescript**
 
 - 👨‍💻 All of my projects are available at [stealthy-dev.vercel.app](https://stealthy-dev.vercel.app/)
 
