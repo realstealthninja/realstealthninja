@@ -21,7 +21,7 @@
 
 <h3 align="center"> Statistics 📊 </h3>
 
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=realstealthninja&show_icons=true&locale=en&theme=onedark&layout=compact&hide=css,html&langs_count=5" alt="realstealthninja" />
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=realstealthninja&show_icons=true&locale=en&theme=onedark" alt="realstealthninja" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realstealthninja&show_icons=true&locale=en&theme=onedark&hide=css,html&layout=compact&langs_count=10" alt="language stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=realstealthninja&show_icons=true&locale=en&theme=onedark" alt="hello" />
 
 Thank you for looking at my profile 🫀
