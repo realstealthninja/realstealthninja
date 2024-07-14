@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C++, Electronics, 3d-rendering and typescript**
 
-- 👨‍💻 All of my projects are available at [stealthy-dev.vercel.app](https://stealthy-dev.vercel.app/)
+- 👨‍💻 All of my projects are available at [my website](https://stealthninja.me/)
 
 - 📫 How to reach me **realstealthninja@gmail.com**
 
