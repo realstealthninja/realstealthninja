@@ -4,7 +4,7 @@
 <h3 align="center">A self described developer from Kerala</h3>
 
 
-- 🔭 Currently working on [Stealthy dev](https://github.com/realstealthninja/stealthy-dev)
+- 🔭 Currently working on [Stealthos](https://github.com/realstealthninja/stealthos) & [stealthy.site](https://github.com/realstealthninja/stealthysite)
 
 - 🌱 I’m currently learning **C++, Electronics, 3d-rendering and typescript**
 
