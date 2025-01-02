@@ -6,7 +6,7 @@
 
 - 🔭 Currently working on [Stealthos](https://github.com/realstealthninja/stealthos) & [stealthy.site](https://github.com/realstealthninja/stealthysite)
 
-- 🌱 I’m currently learning **C++, Electronics, 3d-rendering and typescript**
+- 🌱 I’m currently learning **C, OS dev and java**
 
 - 👨‍💻 All of my projects are available at [my website](https://stealthy.site/)
 
