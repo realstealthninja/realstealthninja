@@ -16,12 +16,12 @@
 
 
 <h3 align="center">Trophies</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realstealthninja&theme=onedark&column=4" alt="realstealthninja" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=realstealthninja&theme=onedark&column=4" alt="realstealthninja" /></a> </p>
 
 
 <h3 align="center"> Statistics 📊 </h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realstealthninja&show_icons=true&locale=en&theme=onedark&hide=css,html,shell,Vim%20script&layout=compact&langs_count=10" alt="language stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=realstealthninja&show_icons=true&locale=en&theme=onedark" alt="hello" />
+<img align="left" src="https://github-readme-stats-extended.vercel.app/api/top-langs?username=realstealthninja&show_icons=true&locale=en&theme=onedark&hide=css,html,shell,Vim%20script&layout=compact&langs_count=10" alt="language stats" />
+<img align="center" src="https://github-readme-stats-extended.vercel.app/api?username=realstealthninja&show_icons=true&locale=en&theme=onedark" alt="hello" />
 
 Thank you for looking at my profile 🫀
