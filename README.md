@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [my website](https://stealthy.site/)
 
-- 📫 How to reach me [email](mailto:realstealthninja@gmai.com), [matrix](https://matrix.to/#/@rstealthninja:matrix.org), [xmpp](https://www.yax.im/i/#stealthninja@conversations.im)
+- 📫 How to reach me [Email](mailto:realstealthninja@gmai.com), [Matrix](https://matrix.to/#/@rstealthninja:matrix.org), [XMPP](https://www.yax.im/i/#stealthninja@conversations.im)
 
 - ⚡ Fun fact **Almost all issues can be boiled down to class conflict.**
 
